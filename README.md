@@ -1,5 +1,4 @@
 # Test
 ## git revert merge
-commit A \
-commit B \
-commit C
+last change to be squashed
+
